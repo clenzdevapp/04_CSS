@@ -1,0 +1,12 @@
+p { 
+    color: cadetblue;
+    font-size: 16px;
+    font-family: Verdana;
+    font-weight: bold;
+} 
+h1 {
+    color: brown;
+    background-color: coral;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
